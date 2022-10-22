@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285883225704@s.whatsapp.net","6285883225704@s.whatsapp.net"],
+    "ownerName": "irsyad ongpicial",
+    "instagram" : "https://instagram.com/baukpandan_1324",
+    "botName": "*ofc.syadBotzV2*",
+    "footer": "*_® 𝖔𝖋𝖈.sʏᴀᴅʙᴏᴛᴢ𝚅2*",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": false,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}

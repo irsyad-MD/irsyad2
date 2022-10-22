@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6285922404374@s.whatsapp.net","62859224043747@s.whatsapp.net"],
+    "ownerName": "PrakosoXfc",
+    "instagram" : "https://instagram.com/_hy.paw2.2",
+    "botName": "*Crizzy Bot*",
+    "footer": "*_® Simple WhatsApp Bot By PrakosoXfc_*",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": false,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
